@@ -1,0 +1,68 @@
+[
+  {
+    "id": "r1",
+    "title": "Lemon Herb Grilled Chicken",
+    "image": "assets/images/placeholder1.jpg",
+    "tags": ["Grill", "Chicken", "Healthy"],
+    "description": "Juicy chicken marinated in lemon and herbs.",
+    "ingredients": [
+      "4 chicken breasts",
+      "2 lemons (juiced)",
+      "3 tbsp olive oil",
+      "2 cloves garlic (minced)",
+      "Salt and pepper",
+      "Fresh herbs (thyme, rosemary)"
+    ],
+    "steps": [
+      "Whisk lemon juice, olive oil, garlic, salt, pepper, and herbs.",
+      "Marinate chicken for at least 30 minutes.",
+      "Preheat grill to medium-high heat.",
+      "Grill chicken 6-7 minutes per side until cooked through."
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "r2",
+    "title": "Creamy Mushroom Pasta",
+    "image": "assets/images/placeholder2.jpg",
+    "tags": ["Vegetarian", "Pasta", "Comfort"],
+    "description": "Rich and creamy pasta with sautéed mushrooms.",
+    "ingredients": [
+      "300g pasta",
+      "300g mushrooms (sliced)",
+      "2 tbsp butter",
+      "1 cup heavy cream",
+      "1/2 cup grated parmesan",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Cook pasta according to package instructions.",
+      "Sauté mushrooms in butter until golden.",
+      "Add cream and simmer until slightly thickened.",
+      "Stir in parmesan, season, and toss with pasta."
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "r3",
+    "title": "Spicy Tofu Stir-Fry",
+    "image": "assets/images/placeholder3.jpg",
+    "tags": ["Vegan", "Quick", "Stir-fry"],
+    "description": "Crispy tofu with colorful veggies in a spicy sauce.",
+    "ingredients": [
+      "400g firm tofu",
+      "1 red bell pepper (sliced)",
+      "1 broccoli (florets)",
+      "2 tbsp soy sauce",
+      "1 tbsp chili paste",
+      "1 tbsp sesame oil"
+    ],
+    "steps": [
+      "Press tofu and cut into cubes.",
+      "Stir-fry tofu until crispy; set aside.",
+      "Stir-fry veggies until tender-crisp.",
+      "Combine tofu with sauce and cook 1-2 minutes."
+    ],
+    "rating": 4.5
+  }
+]
